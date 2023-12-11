@@ -21,4 +21,5 @@ Credit card fraud detection simply means identifying fraudulent transactions so 
 
 Source: 
 inscribe: https://www.inscribe.ai/fraud-detection/credit-fraud-detection
+
 geeksforgeeks: https://www.geeksforgeeks.org/ml-credit-card-fraud-detection

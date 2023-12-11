@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+![image](https://github.com/Rayonushi/CreditCardFraudDetec/assets/91659975/db322894-cd16-4aa9-9bc6-dbcc6cc67096)
+
 Credit card fraud has become more popular than ever due to the rise in usage of digital means making it easier to steal credit card numbers and accompanying personal information for illicit transactions.
 
 According to the Nilson Report credit card fraud will grow from $43 billion to a whopping $408.5 billion globally in the next five years.
